@@ -12,4 +12,4 @@ For more information, see the [Project Insight page on TeamGleason.Org](https://
 
 This dataset of collected images and associated metadata is made available for machine learning researchers under the [Open Data Commons Open Database License (ODbL)](LICENSE.md) with an additional No De-Identification clause.
 
-The dataset is too large to host in a Git Repository.  To attain a copy of the dataset, please contact [dev@teamgleason.org](mailto:dev@teamgleason.org).  You will be provided an SSH key and SSH configuration information with which you will be able to copy data to your own location using either scp or rsync.
+The dataset is too large to host in a Git Repository.  To attain a copy of the dataset, please contact [projectinsightresearch@teamgleason.org](mailto:projectinsightresearch@teamgleason.org).  You will be provided an SSH key and SSH configuration information with which you will be able to copy data to your own location using either scp or rsync.
