@@ -1,5 +1,7 @@
 # Project Insight
 
+> Temporary project hold as we work through some bumps in the road
+
 Team Gleason is excited to announce Project Insight, the creation of an open dataset of facial imagery of people living with ALS, to help advance innovation in computer vision and broaden the input potential for connectivity and communication.
 
 Existing computer vision and machine learning datasets do not represent the diversity of people with ALS.  This results in issues with the accuracy of identifying breathing masks, ptosis (droopy eyelids), epiphora (watery eyes), and dry eyes due to medications that control sialorrhea (excessive saliva).
